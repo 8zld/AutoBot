@@ -1,1 +1,1 @@
-On
+return true
